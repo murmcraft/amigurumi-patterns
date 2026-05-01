@@ -46,7 +46,7 @@ and its [usage guideline](https://github.com/kubernetes/kubernetes/blob/master/l
 4. Fill firmly with fiber fill before finishing the round and after that finish it.
 5. Sew in the yarn end.
 
->If you wish to add a hanger or a keychain ring, prepare for that before starting the assembly:
+> If you wish to add a hanger or a keychain ring, prepare for that before starting the assembly:
 
 1. Crochet the hanger or decide the length of another hanger material.
 2. Attach it on top of the logo between the pieces i.e. place the end of the round at the bottom, and thus the top will be one corner of the logo.
