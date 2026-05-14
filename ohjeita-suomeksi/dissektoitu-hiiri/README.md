@@ -7,7 +7,7 @@ images:
   - ../../img/dissected-mouse/dissected-mouse-back.jpg
   - ../../img/dissected-mouse/dissected-mouse-organs.jpg
   - ../../img/dissected-mouse/dissected-mouse1.jpg
-date:   2018-12-06 20:12:12
+date: 2018-12-06
 ---
 
 # Dissektoitu hiiri -kortti
