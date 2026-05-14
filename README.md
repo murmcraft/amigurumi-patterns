@@ -22,4 +22,4 @@ Some patterns have also a downloadable PDF along with the README.md file.
 
 > NOTE: The patterns use US English abbreviations.
 
-![Perhepotretti](img/family-photo.jpg)
+![Perhepotretti](./img/family-photo.jpg)
