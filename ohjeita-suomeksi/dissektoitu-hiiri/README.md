@@ -1,8 +1,7 @@
 ---
-title:  "Dissektoitu hiiri -kortti"
+title:  "Virkkausohje: Dissektoitu hiiri -kortti"
 author: "murmcraft"
-tags: [hiiri, kortti]
-img: "../../img/dissected-mouse/dissected-mouse1.jpg"
+tags: [hiiri, elimet, kortti, virkkausohje, amigurumi]
 images:
   - ../../img/dissected-mouse/dissected-mouse-back.jpg
   - ../../img/dissected-mouse/dissected-mouse-organs.jpg
