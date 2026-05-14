@@ -21,3 +21,5 @@ Most patterns are in English under [patterns-in-english](./patterns-in-english),
 Some patterns have also a downloadable PDF along with the README.md file.
 
 > NOTE: The patterns use US English abbreviations.
+
+![Perhepotretti](img/family-photo.jpg)
