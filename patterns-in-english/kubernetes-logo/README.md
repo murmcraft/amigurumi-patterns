@@ -1,14 +1,29 @@
-# Kubernetes logo
+---
+title:  "Amigurumi crochet pattern: Kubernetes logo ornament"
+author: "murmcraft"
+tags: [kubernetes, ornament, crochet pattern, amigurumi]
+images:
+  - ../../img/kubernetes-logo/kubernetes-anchor-2mm.jpg)
+  - ../../img/kubernetes-logo/kubernetes-katia-2mm.jpg)
+date: 2024-12-10
+---
+
+# Kubernetes logo ornament
 
 [Kubernetes logo](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png),
 and its [usage guideline](https://github.com/kubernetes/kubernetes/blob/master/logo/usage_guidelines.md).
+
+![Kubernetes logo](../../img/kubernetes-logo/kubernetes-anchor-2mm.jpg)
 
 ## Materials 
 ### Hook
 2.00 mm
 
 ### Yarn
-[Katia amigurumi cotton](https://www.katia.com/EN/yarns-spring-summer-unitedcotton-1279.html)
+[Katia amigurumi cotton](https://www.katia.com/EN/yarns-spring-summer-unitedcotton-1279.html)  
+OR e.g.  
+Anchor artiste metallic, dark blue  
+Anchor artiste metallic, silver
 
 **B**=blue (1 is just enough, but better to prepare with more balls of yarn)  
 **W**=white
@@ -36,6 +51,8 @@ and its [usage guideline](https://github.com/kubernetes/kubernetes/blob/master/l
 13. (7 sc, inc, 4 sc B) x 7 (91)
 14. (8 sc, inc, 4 sc B) x 7 (98)
 15. (9 sc, inc, 4 sc B) x 7 (105)
+
+![Kubernetes logo](../../img/kubernetes-logo/kubernetes-katia-2mm.jpg)
 
 ### Assembly
 

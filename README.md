@@ -5,7 +5,8 @@ yhdistelemällä useampia ohjeita. Ohjeissa on viittaukset inspiraatiolähteisii
 
 Voit vapaasti käyttää ohjeita miten vain haluat, mutta olisi kohteliasta viitata tähän repoon ohjeen lähteenä.
 
-Löydät ohjeita suomeksi [täältä](./ohjeita-suomeksi), ja osa ohjeista on vain [englanniksi](./patterns-in-english).
+Ohjeita löytyy suomeksi [ohjeita-suomeksi](./ohjeita-suomeksi) alta, ja osa ohjeista on vain englanniksi [patterns-in-english](./patterns-in-english) alla.  
+Joillekin ohjeille löytyy myös ladattava PDF.
 
 > Jos ohje ei ole suomeksi, se noudattaa [US/amerikanenglannin lyhenteitä](https://www.katajala.net/marjut/neuleet/virkkaussanasto.shtml). 
 
@@ -16,6 +17,7 @@ modifications or by combining several patterns as a new one with reference to th
 
 Feel free to use the patterns the way you want, but as per common courtesy, I'd appreciate reference to this repo.
 
-Most patterns are in English [here](./patterns-in-english), but some might be only in [Finnish](./ohjeita-suomeksi).
+Most patterns are in English under [patterns-in-english](./patterns-in-english), but some might be only in Finnish under [ohjeita-suomeksi](./ohjeita-suomeksi).
+Some patterns have also a downloadable PDF along with the README.md file.
 
 > NOTE: The patterns use US English abbreviations.
