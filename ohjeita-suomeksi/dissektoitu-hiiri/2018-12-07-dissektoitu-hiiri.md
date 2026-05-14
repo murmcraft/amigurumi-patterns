@@ -17,8 +17,6 @@ Morning Yarns) [Dissected Mouse with Removable Organs](https://www.etsy.com/list
 
 ![Dissektoitu hiiri](../../img/dissected-mouse/dissected-mouse1.jpg)
 
-![Dissektoidun hiiren elimet](../..//img/dissected-mouse/dissected-mouse-organs.jpg)
-
 ## Materiaalit:
 
 * Katia Amigurumi -lankoja eri värejä (hiiren vartalo vie kokonaisen kerän)
@@ -208,6 +206,10 @@ Jätä riittävästi lankaa kiinnitääksesi pienemmät osat isompaan ja samalla
    ![Hiiren alapuoli](../../img/dissected-mouse/dissected-mouse-back.jpg)
 
 1. Liimaa tai ompele elimet oikeaoppiseen järjestykseen vartalon keskiosaan.
+
+
+![Dissektoidun hiiren elimet](../..//img/dissected-mouse/dissected-mouse-organs.jpg)
+
 1. Tässä vaiheessa lienee viisainta mallailla hiirtä kortin etupuolelle ja kirjoittaa korttitekstit sopiviiin kohtiin.
 1. Katkaise nuppineulojen varret sopivan pituisiksi sivuleikkureilla (noin 1–1.5 cm).
 1. Laita geeliliimaa vartalon keskiosan ja pään alle ja liimaa hiiri tiukasti korttiin.
