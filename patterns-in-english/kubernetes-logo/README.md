@@ -1,14 +1,29 @@
-# Kubernetes logo
+---
+title:  "Amigurumi crochet pattern: Kubernetes logo ornament"
+author: "murmcraft"
+tags: [kubernetes, ornament, crochet pattern, amigurumi]
+images:
+  - ../../img/kubernetes-logo/kubernetes-anchor-2mm.jpg)
+  - ../../img/kubernetes-logo/kubernetes-katia-2mm.jpg)
+date: 2024-12-10
+---
+
+# Kubernetes logo ornament
 
 [Kubernetes logo](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png),
 and its [usage guideline](https://github.com/kubernetes/kubernetes/blob/master/logo/usage_guidelines.md).
+
+![Kubernetes logo](../../img/kubernetes-logo/kubernetes-anchor-2mm.jpg)
 
 ## Materials 
 ### Hook
 2.00 mm
 
 ### Yarn
-[Katia amigurumi cotton](https://www.katia.com/EN/yarns-spring-summer-unitedcotton-1279.html)
+[Katia amigurumi cotton](https://www.katia.com/EN/yarns-spring-summer-unitedcotton-1279.html)  
+OR e.g.  
+Anchor artiste metallic, dark blue  
+Anchor artiste metallic, silver
 
 **B**=blue (1 is just enough, but better to prepare with more balls of yarn)  
 **W**=white
@@ -37,6 +52,8 @@ and its [usage guideline](https://github.com/kubernetes/kubernetes/blob/master/l
 14. (8 sc, inc, 4 sc B) x 7 (98)
 15. (9 sc, inc, 4 sc B) x 7 (105)
 
+![Kubernetes logo](../../img/kubernetes-logo/kubernetes-katia-2mm.jpg)
+
 ### Assembly
 
 1. On the back side, sew in the yarn ends to avoid them from loosening or coming out over time.
@@ -46,7 +63,7 @@ and its [usage guideline](https://github.com/kubernetes/kubernetes/blob/master/l
 4. Fill firmly with fiber fill before finishing the round and after that finish it.
 5. Sew in the yarn end.
 
->If you wish to add a hanger or a keychain ring, prepare for that before starting the assembly:
+> If you wish to add a hanger or a keychain ring, prepare for that before starting the assembly:
 
 1. Crochet the hanger or decide the length of another hanger material.
 2. Attach it on top of the logo between the pieces i.e. place the end of the round at the bottom, and thus the top will be one corner of the logo.
