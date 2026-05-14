@@ -14,7 +14,7 @@ date: 2018-12-06
 Mallin ideana toimivat Karen Gossin [Little Grey Mouse](https://www.ravelry.com/patterns/library/little-grey-mouse) ja Dawn Boeningin (Good
 Morning Yarns) [Dissected Mouse with Removable Organs](https://www.etsy.com/listing/188420178/dissected-mouse-with-removable-organs). Sekä tietenkin googlen kuvahaulla löytyvät **aidot** [dissektoitujen hiirten kuvat](https://www.researchgate.net/figure/Abdominal-and-thoracic-organs-in-the-mouse-These-organs-are-typically-visible-when-an_fig1_51576510). 
 
-Ohje löytyy myös ladattavana [PDF:nä](./dissektoitu-hiiri.pdf).
+Ohje löytyy myös ladattavana [PDF:nä](./dissektoitu-hiiri.pdf) (sisältää vanhentuneita linkkejä).
 
 ![Dissektoitu hiiri](../../img/dissected-mouse/dissected-mouse1.jpg)
 
