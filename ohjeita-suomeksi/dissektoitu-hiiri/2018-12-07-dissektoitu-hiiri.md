@@ -2,11 +2,11 @@
 title:  "Dissektoitu hiiri -kortti"
 author: "murmcraft"
 tags: [hiiri, kortti]
-img: "dissected_mouse/dissected-mouse1.jpg"
+img: "../../img/dissected-mouse/dissected-mouse1.jpg"
 images:
-  - ./img/dissected-mouse/dissected-mouse-back.jpg
-  - ./img/dissected-mouse/dissected-mouse-organs.jpg
-  - ./img/dissected-mouse/dissected-mouse1.jpg
+  - ../../img/dissected-mouse/dissected-mouse-back.jpg
+  - ../../img/dissected-mouse/dissected-mouse-organs.jpg
+  - ../../img/dissected-mouse/dissected-mouse1.jpg
 date:   2018-12-06 20:12:12
 ---
 
@@ -15,9 +15,9 @@ date:   2018-12-06 20:12:12
 Mallin ideana toimivat Karen Gossin [Little Grey Mouse](https://www.ravelry.com/patterns/library/little-grey-mouse) ja Dawn Boeningin (Good
 Morning Yarns) [Dissected Mouse with Removable Organs](https://www.etsy.com/listing/188420178/dissected-mouse-with-removable-organs). Sekä tietenkin googlen kuvahaulla löytyvät **aidot** [dissektoitujen hiirten kuvat](https://www.researchgate.net/figure/Abdominal-and-thoracic-organs-in-the-mouse-These-organs-are-typically-visible-when-an_fig1_51576510). 
 
-![Dissektoitu hiiri](./img/dissected-mouse/dissected-mouse1.jpg)
+![Dissektoitu hiiri](../../img/dissected-mouse/dissected-mouse1.jpg)
 
-![Dissektoidun hiiren elimet](./img/dissected-mouse/dissected-mouse-organs.jpg)
+![Dissektoidun hiiren elimet](../..//img/dissected-mouse/dissected-mouse-organs.jpg)
 
 ## Materiaalit:
 
@@ -205,7 +205,7 @@ Jätä riittävästi lankaa kiinnitääksesi pienemmät osat isompaan ja samalla
 1. Kiinnitä etutassut vartalon yläosaan ja takajalat alaosaan.
 1. Kiinnitä häntä vartalon alaosan keskelle.
 
-   ![Hiiren alapuoli](./img/dissected-mouse/dissected-mouse-back.jpg)
+   ![Hiiren alapuoli](../../img/dissected-mouse/dissected-mouse-back.jpg)
 
 1. Liimaa tai ompele elimet oikeaoppiseen järjestykseen vartalon keskiosaan.
 1. Tässä vaiheessa lienee viisainta mallailla hiirtä kortin etupuolelle ja kirjoittaa korttitekstit sopiviiin kohtiin.
