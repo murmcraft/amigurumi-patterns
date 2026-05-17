@@ -10,7 +10,7 @@ images:
 date: 2021-11-03
 ---
 
-# R logo crochet pattern in English
+# R project logo
 
 I wanted to create [R logo](https://www.r-project.org/logo/), but I couldn't find a satisfying pattern for letter R 
 and ended up modifying [CrochetCircle's](https://www.thecrochetcircle.com/tutorials/crochet-alphabet-letter-r) pattern to smaller and angular format instead of flat sides.
@@ -28,10 +28,11 @@ Instruction can be found also as a downloadable [PDF](./r-project.pdf) (it conta
 * metal wire (~1-2 mm)
 
 #### Size
-R 
+
+##### R 
 - 5 x 4 x 1 cm  
 
-Entire logo
+##### Entire logo
 - 6 x 7.5 x 1.2 cm
 
 #### Abbreviations (US english)
