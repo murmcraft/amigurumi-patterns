@@ -15,7 +15,7 @@ date: 2022-01-01
 En löytänyt yhtään mallia [Python-logosta](https://www.python.org/community/logos/) amigurumina, joten oli työstettävä
 itse [All about ami:n](https://www.allaboutami.com/snakepattern/) käärmeen pohjalta.
 
-hje löytyy myös ladattavana [PDF:nä](./python-logo.pdf) (sisältää vanhentuneita linkkejä).
+Ohje löytyy myös ladattavana [PDF:nä](./python-logo.pdf) (sisältää vanhentuneita linkkejä).
 
 ![Mighty Python](../../img/python-logo/python-shadow.jpg)
 
