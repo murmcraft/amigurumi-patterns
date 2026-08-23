@@ -5,9 +5,9 @@ author: "murmcraft"
 tags: [futurice, joulukoriste, ornament, t-rex, amigurumi]
 images: 
   - ../../img/futurice-t-rex/trex-front-back-parts.jpg
-  - ../../img/futurice-t-rex/trex_ornament/trex-with-sticker.jpg
-  - ../../img/futurice-t-rex/trex_ornament/trex-with-sticker-back.jpg
-  - ../../img/futurice-t-rex/trex_ornament/trex-with-drawing.jpg
+  - ../../img/futurice-t-rex/trex-with-sticker.jpg
+  - ../../img/futurice-t-rex/trex-with-sticker-back.jpg
+  - ../../img/futurice-t-rex/trex-with-drawing.jpg
 date: 2023-07-17
 ---
 
@@ -16,7 +16,7 @@ date: 2023-07-17
 Sorry for missing written instructions and poor quality pictures. This was a little bit too challenging, neverending, nightmareish project,
 but at least it is finished and it shall stay as a unique product on my behalf.
 
-![Futurice T-rex](../../img/futurice-t-rex/trex_ornament/trex-with-drawing.jpg)
+![Futurice T-rex](../../img/futurice-t-rex/trex-with-drawing.jpg)
 
 ## Materials
 
@@ -57,5 +57,6 @@ Chain stitches until the wanted length.
 6. Sew the hanger in the middle of the top part and crochet over it with copper yarn.
 7Sew in the yarn ends.
 
-![Alkuperäisen mallin kanssa](../../img/futurice-t-rex/trex_ornament/trex-with-sticker.jpg)
-![Alkuperäisen mallin kanssa takaa](../../img/futurice-t-rex/trex_ornament/trex-with-sticker-back.jpg)
+![Alkuperäisen mallin kanssa](../../img/futurice-t-rex/trex-with-sticker.jpg)
+
+![Alkuperäisen mallin kanssa takaa](../../img/futurice-t-rex/trex-with-sticker-back.jpg)

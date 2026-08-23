@@ -5,9 +5,9 @@ author: "murmcraft"
 tags: [futurice, joulukoriste, ornament, t-rex, amigurumi]
 images: 
   - ../../img/futurice-t-rex/trex-front-back-parts.jpg
-  - ../../img/futurice-t-rex/trex_ornament/trex-with-sticker.jpg
-  - ../../img/futurice-t-rex/trex_ornament/trex-with-sticker-back.jpg
-  - ../../img/futurice-t-rex/trex_ornament/trex-with-drawing.jpg
+  - ../../img/futurice-t-rex/trex-with-sticker.jpg
+  - ../../img/futurice-t-rex/trex-with-sticker-back.jpg
+  - ../../img/futurice-t-rex/trex-with-drawing.jpg
 date: 2023-07-17
 ---
 
@@ -16,7 +16,7 @@ date: 2023-07-17
 Kaikesta sählingistä johtuen, työ on tehty aikalailla lennosta improvisoiden, eikä kirjoitettua ohjetta ole.
 Eli kuvasta pitää soveltaa, ja kuvienkin laatu on mitä on. Mutta tulipahan edes valmista.
 
-![Futurice T-rex](../../img/futurice-t-rex/trex_ornament/trex-with-drawing.jpg)
+![Futurice T-rex](../../img/futurice-t-rex/trex-with-drawing.jpg)
 
 ## Materiaalit
 
@@ -59,5 +59,6 @@ Tee ketjusilmukoita haluttuun mittaan asti.
 6. Kiinnitä ripustin keskelle yläosaa ompelemalla ja sulje koriste virkkaamalla kuparilla myös ripustinkohdan yli.
 8. Päättele langat.
 
-![Alkuperäisen mallin kanssa](../../img/futurice-t-rex/trex_ornament/trex-with-sticker.jpg)
-![Alkuperäisen mallin kanssa takaa](../../img/futurice-t-rex/trex_ornament/trex-with-sticker-back.jpg)
+![Alkuperäisen mallin kanssa](../../img/futurice-t-rex/trex-with-sticker.jpg)
+
+![Alkuperäisen mallin kanssa takaa](../../img/futurice-t-rex/trex-with-sticker-back.jpg)
