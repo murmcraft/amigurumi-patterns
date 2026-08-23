@@ -1,5 +1,5 @@
 ---
-title:  "Chilicorn"
+title:  "Amigurumi crochet pattern: Chilicorn"
 author: "murmcraft"
 tags: [chilicorn, unicorn, head, horse, crochet pattern, amigurumi]
 images: 
@@ -11,17 +11,16 @@ images:
 date: 2019-03-16
 ---
 
-Chilicorn v0.1 alpha
+# Chilicorn
 
-I got camera covers for my laptops as a souvenir gift from Tampere. These camera covers have a picture of Chilicorn,
-[the mascot of Futurice Open Source Social Responsibility program](https://spiceprogram.org/chilicorn-history/). I wanted to make a gift in return, so I decided
-to develop an amigurumi pattern. 
+For my laptops, I got camera covers which have a picture of Chilicorn,
+[the mascot of Futurice Open Source Social Responsibility program](https://spiceprogram.org/chilicorn-history/). 
 
-With some blood, sweat and tears, I finally finished a publishable version 0.1 alpha.
+With some blood, sweat and tears, I finally finished a publishable first version.
 This version is not entirely stable and the poor thing falls on its face easily. I solved this balance bug by filling
-the neck with small coins. It is not yet the most optimal solution, but it works. 
+the neck with small coins.
 
-Instruction stitch counts are somewhat accurate due to the continuous trial and error process while crocheting this one.
+Instruction stitch counts are somewhat accurate due to the continuous trial and error process while crocheting.
 
 Instruction can be found also as a downloadable [PDF](./chilicorn.pdf) (it contains outdated links).
 
@@ -38,7 +37,7 @@ Instruction can be found also as a downloadable [PDF](./chilicorn.pdf) (it conta
 
 #### Size
 
-I forgot to measure the size, but I guess it is about 7 - 8 cm tall. 
+About 7 - 8 cm tall. 
 
 #### Abbreviations (US english)
 

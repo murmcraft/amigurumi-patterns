@@ -11,18 +11,18 @@ images:
 date: 2019-03-16
 ---
 
-# Chilicorn-maskotti v0.1 alpha
+# Chilicorn-maskotti
 
-Sainp taannoin Tampereen tuliaisina läppäreihini kameran suojukset, joita koristaa
+Sainp läppäreihini kameran suojukset, joita koristaa
 [Futuricen avoin lähdekoodi -projektin](https://spiceprogram.org/chilicorn-history/) maskotti **Chilicorn**. Vastalahjaksi kehitelin maskotista amigurumin. 
 
-Melkoisen haastavalla "verta, hikeä ja kyyneliä"-prosessilla valmistui v0.1 alphan. Versio ei ole täysin stabiili,
-vaan muun muassa kellahtaa herkästi naamalleen. Laastariratkaisuna täytin kaulan kolikoilla, ettei tyyppi olisi 
-jatkuvasti alamaissa. 
+Tämä ei ole täysin stabiili versio, vaan muun muassa kellahtaa herkästi naamalleen.
+Laastariratkaisuna täytin kaulan kolikoilla, ettei tyyppi olisi jatkuvasti alamaissa. 
 
-Tämä versio sopinee siis ehkä paremmin ripustettavaksi asiaksi kevyellä vanutäytöllä, tai paranneltuun versioon kaulaa
-pitäisi jonkin verran aiemmin leventää pään alle painopisteen muuttamiseksi. Ohjeen silmukkamäärät voivat olla jotain
-sinne päin johtuen jatkuvasta "virkkaa, pura, itke ja pura"-menettelystä.
+Chilicorn voisi toimia paremmin ripustettavana asiana kevyellä vanutäytöllä, tai paranneltuun versioon kaulaa
+pitäisi jonkin verran aiemmin leventää pään alle painopisteen muuttamiseksi.
+
+Ohjeen silmukkamäärät voivat olla jotain sinne päin johtuen jatkuvasta "virkkaa, pura, itke ja pura"-menettelystä.
 
 Ohje löytyy myös ladattavana [PDF:nä](./chilicorn.pdf) (sisältää vanhentuneita linkkejä).
 
@@ -38,7 +38,7 @@ Ohje löytyy myös ladattavana [PDF:nä](./chilicorn.pdf) (sisältää vanhentun
 
 #### Koko
 
-Unohdinpa kirjata kaverin mitat ylös, mutta olisiko noin 7-8 cm korkuinen. 
+Noin 7-8 cm korkea. 
 
 #### Termit
 
