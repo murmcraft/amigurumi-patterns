@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Virkkausohje: Futurice T-rex -koriste"
 author: "murmcraft"
 tags: [futurice, joulukoriste, ornament, t-rex, amigurumi]

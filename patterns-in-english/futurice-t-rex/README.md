@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Amigurumi crochet pattern: Futurice T-rex -koriste"
 author: "murmcraft"
 tags: [futurice, ornament, t-rex, amigurumi]
