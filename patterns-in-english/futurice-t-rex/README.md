@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Virkkausohje: Futurice T-rex -koriste"
+title:  "Amigurumi crochet pattern: Futurice T-rex -koriste"
 author: "murmcraft"
-tags: [futurice, joulukoriste, ornament, t-rex, amigurumi]
+tags: [futurice, ornament, t-rex, amigurumi]
 images: 
   - ../../img/futurice-t-rex/trex-front-back-parts.jpg
   - ../../img/futurice-t-rex/trex-with-sticker.jpg
