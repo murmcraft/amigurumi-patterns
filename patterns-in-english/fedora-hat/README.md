@@ -3,7 +3,8 @@ title:  "Amigurumi crochet pattern: Fedora hat"
 author: "murmcraft"
 tags: [fedora hat, redhat, crochet pattern, amigurumi]
 images:
-  - ../../img/fedora-hat-tux/fedora-hat-tux.jpg)
+  - ../../img/fedora-hat-tux/fedora-hat-tux-top.jpeg
+  - ../../img/fedora-hat-tux/fedora-hat-tux-front.jpeg
 date: 2026-07-10
 ---
 
@@ -12,6 +13,8 @@ date: 2026-07-10
 Original top hat instruction at [Theresa's Crochet Shop](https://www.theresascrochetshop.com/blogs/free-crochet-patterns/free-pattern-top-hat)
 modified to create a fedora hat.
 I made it red in order for Tux Linux penguin to wear it as a [Redhat Linux logo](https://www.redhat.com/en/about/brand/standards/product-logos).
+
+![Redhat Tux](../../img/fedora-hat-tux/fedora-hat-tux-top.jpeg)
 
 ## Materials
 
@@ -52,3 +55,5 @@ of the brim.
 
 When attaching the hat to a head, do not sew right on the edges, rather leave one stitch row openly to leave some room
 for the brim to curl upwards.
+
+![Redhat Tux](../../img/fedora-hat-tux/fedora-hat-tux-front.jpeg)
