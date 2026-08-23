@@ -1,5 +1,5 @@
 ---
-title:  "Chilicorn"
+title:  "Virkkausohje: Chilicorn"
 author: "murmcraft"
 tags: [chilicorn, chilisarvinen, hevonen, yksisarvinen, virkkausohje, amigurumi]
 images: 
@@ -28,7 +28,7 @@ Ohje löytyy myös ladattavana [PDF:nä](./chilicorn.pdf) (sisältää vanhentun
 
 ![Chilicorn](../../img/chilicorn/chilicorn.jpg)
 
-#### Materiaalit
+## Materiaalit
 
 * Katia Amigurumi -lankoja (valkoinen, punainen, oranssi, keltainen, vihreä, sininen, violetti)
 * 2.00 mm koukku
@@ -36,18 +36,18 @@ Ohje löytyy myös ladattavana [PDF:nä](./chilicorn.pdf) (sisältää vanhentun
 * mustaa huopaa
 * geeliliimaa
 
-#### Koko
+## Koko
 
 Noin 7-8 cm korkea. 
 
-#### Termit
+## Termit
 
 - ks = kiinteä silmukka
 - kjs = ketjusilmukka
 - ps = piilosilmukka
 - tee vähennykset "näkymättömänä" poimimalla kahden perättäisen silmukan etureuna ja viemällä lanka niiden läpi, ja uudelleen muodostuneen kahden silmukan läpi
 
-#### Pää/kaula
+## Pää/kaula
 
 Valkoinen lanka
 
@@ -64,7 +64,7 @@ Tässä kohden jaa työ kahtia niin, että 24 silmukkaa jatkaa päätä ja 18 si
 
 ![Chilicornin pää](../../img/chilicorn/chilicorn_head.jpg)
 
-#### Pää
+## Pää
 
 8. 24 ks (12 ks, jätä 18 ks välistä kaulaa varten, ja jatka kerroksen viimeiset 12 ks normaalisti)
 9. (3 ks + lisäys) x 2, 1 ks, (1 ks + lisäys) x 3, 1 ks, (lisäys + 3 ks) x 2 (31)
@@ -94,7 +94,7 @@ Täytä päätä jämäkästi muotoillen ja jatka täyttämistä loppuun asti.
 
 Tee lopetukseksi ps. Päättele.
 
-#### Kaula
+## Kaula
 
 Valkoinen lanka. Jatka kaulaa päästä jääneillä 18 silmukalla.
 
@@ -116,7 +116,7 @@ Tee lopetukseksi ps ja katkaise lanka.
 
 ![Täytetty pää](../../img/chilicorn/chilicorn_headfill.jpg)
 
-#### Korvat (2 kpl)
+## Korvat (2 kpl)
 
 Valkoinen lanka  
 
@@ -131,7 +131,7 @@ Teen yleensä ainakin pari ensimmäistä kerrosta pienemmällä koukulla (täss�
 
 Tee lopetukseksi ps. Jätä riittävästi lankaa kiinnittääksesi korvat päähän.
 
-#### Chili
+## Chili
 
 Aloita punaisella langalla
 
@@ -151,7 +151,7 @@ Teen yleensä ainakin pari ensimmäistä kerrosta pienemmällä koukulla (täss�
 
 Tee lopetukseksi ps. Jätä riittävästi lankaa kiinnittääksesi chilin päähän.
 
-#### Pohja
+## Pohja
 
 Valkoinen lanka
 
@@ -168,7 +168,7 @@ Tee lopetukseksi ps, ja jätä riittävästi lankaa kiinnitykseen.
 
 ![Kaulan pohja](../../img/chilicorn/chilicorn_bottom.jpg)
 
-#### Kokoaminen
+## Kokoaminen
 
 Taita korvia kaksinkerroin, jotta ne muodostavat hevosen korvamaisen suipon. Kiinnitä ne näin noin 7. - 11.
 kerroksen kohdalle aloitusrenkaasta laskien.

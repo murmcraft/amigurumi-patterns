@@ -26,7 +26,7 @@ Instruction can be found also as a downloadable [PDF](./chilicorn.pdf) (it conta
 
 ![Chilicorn](../../img/chilicorn/chilicorn.jpg)
 
-#### Materials
+## Materials
 
 * Katia Amigurumi yarn (white, red, orange, yellow, green, blue, purple)
 * 2.00 mm hook
@@ -35,11 +35,11 @@ Instruction can be found also as a downloadable [PDF](./chilicorn.pdf) (it conta
 * gel glue
 * fiber fill
 
-#### Size
+## Size
 
 About 7 - 8 cm tall. 
 
-#### Abbreviations (US english)
+## Abbreviations (US english)
 
 - sc = single crochet
 - ch = chain
@@ -48,7 +48,7 @@ About 7 - 8 cm tall.
 - inc = increase
 - dec = decrease (make [invisible decrease](https://www.allaboutami.com/invisibledecrease/))
 
-#### Head/neck
+## Head/neck
 
 White yarn
 
@@ -64,7 +64,7 @@ Here, divide the round into two parts, 24 stitches for the head and 18 for the n
 
 ![Chilicorn head](../../img/chilicorn/chilicorn_head.jpg)
 
-#### Head
+## Head
 
 8. 24 sc (12 sc, skip 18 stitches for the neck, and continue the last 12 sc normally)
 9. (3 sc + inc) x 2, 1 sc, (1 sc + inc) x 3, 1 sc, (inc + 3 sc) x 2 (31)
@@ -93,7 +93,7 @@ Fill the head firmly and continue filling until the last round.
 
 End with a sl.st.
 
-#### Neck
+## Neck
 
 White yarn
 
@@ -116,7 +116,7 @@ Continue neck with the 18 stitches remaining after the division to head and neck
 End with a sl.st.
 ![Filled head](../../img/chilicorn/chilicorn_headfill.jpg)
 
-#### Ears (2x)
+## Ears (2x)
 
 White yarn
 
@@ -131,7 +131,7 @@ I generally crochet the first few rounds with a smaller hook (here 1.75 mm) in o
 
 End with a sl.st. Leave enough yarn to sew the ears to the head.
 
-#### Chili
+## Chili
 
 Start with red yarn
 
@@ -151,7 +151,7 @@ I generally crochet the first few rounds with a smaller hook (here 1.75 mm) in o
 
 End with a sl.st. Leave enough yarn to sew the chili to the head.
 
-#### Neck bottom
+## Neck bottom
 
 White yarn
 
@@ -168,7 +168,7 @@ End with a sl.st. Leave enough yarn to sew the bottom to the neck.
 
 ![Bottom of the neck](../../img/chilicorn/chilicorn_bottom.jpg)
 
-#### Assembly
+## Assembly
 
 Fold the ears to make them sharp and more "horse-like" ears. Sew the ears around 7th to 11th rounds
 (counting from the magic ring).
