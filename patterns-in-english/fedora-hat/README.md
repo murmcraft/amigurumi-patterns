@@ -8,7 +8,7 @@ images:
 date: 2026-07-10
 ---
 
-# Redhat Linux (Fedora) Hat
+# Fedora Hat
 
 Original top hat instruction at [Theresa's Crochet Shop](https://www.theresascrochetshop.com/blogs/free-crochet-patterns/free-pattern-top-hat)
 modified to create a fedora hat.
@@ -54,6 +54,6 @@ recognizable fedora hat bends. Make the tightening 1/3 from the front and try to
 of the brim.
 
 When attaching the hat to a head, do not sew right on the edges, rather leave one stitch row openly to leave some room
-for the brim to curl upwards.
+for the brim to curl a bit upwards.
 
 ![Redhat Tux](../../img/fedora-hat-tux/fedora-hat-tux-front.jpeg)
