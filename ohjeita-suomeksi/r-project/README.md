@@ -1,7 +1,6 @@
 ---
 title: "R project logo"
 author: "murmcraft"
-permalink: r-project
 tags: [r project, r programming, r-ohjelmointi, r logo, virkkausohje, amigurumi]
 images: 
   - ../../img/r-project/r-project.jpg

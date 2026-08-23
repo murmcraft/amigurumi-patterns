@@ -43,7 +43,6 @@ Instruction can be found also as a downloadable [PDF](./r-project.pdf) (it conta
 - inc = increase
 - dec = decrease
 
-
 #### R (2x)
 
 Dark blue yarn
