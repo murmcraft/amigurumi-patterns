@@ -38,14 +38,17 @@ With red yarn
 From now on, end the round with a sl, start next round with one ch. This helps to keep the row switching seam on the backside of the hat and it makes the color changes smoother.
 6. 30 sc (30)
 7. 30 sc (30)
-8. 30 sc (30), sl with red, for the chain switch to black yarn
-10. 30 sc (30)
-11. 30 sc (30), sl with black, for the chain switch to red yarn
-12. FRONT LOOPS ONLY: (Sc 3, inc) x 3, 2 sc, 1 hdc, inc dc, 1 hdc, 2 sc, (inc, 3sc) x 3 (37)
-13. (Sc 4, inc) x 3, 1 sc, 1 hdc, 1 dc, inc dc, inc dc, 1 dc, 1 hdc, 1 sc, (inc, 4sc) x 3 (45)
+8. 30 sc (30), sl with red, for the chain switch to black yarn 
+9. 30 sc (30)
+10. 30 sc (30), sl with black, for the chain switch to red yarn
+11. FRONT LOOPS ONLY: (Sc 3, inc) x 3, 2 sc, 1 hdc, inc dc, 1 hdc, 2 sc, (inc, 3sc) x 3 (37)
+12. (Sc 4, inc) x 3, 1 sc, 1 hdc, 1 dc, inc dc, inc dc, 1 dc, 1 hdc, 1 sc, (inc, 4sc) x 3 (45)
 
 #### Assembly
 
 Assemble the hat with the leftover yarn by stitching the sides and bottom of the top and pulling tightly to form the
 recognizable fedora hat bends. Make the tightening 1/3 from the front and try to keep it aligned with the longest part
 of the brim.
+
+When attaching the hat to a head, do not sew right on the edges, rather leave one stitch row openly to leave some room
+for the brim to curl upwards.
